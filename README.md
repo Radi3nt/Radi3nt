@@ -1,7 +1,7 @@
 Hi, I’m Radi3nt 👋
 
 - 👀 I’m mainly programming in Java
-- 🌱 I’m currently creating an OpenGL engine
+- 🌱 I’m currently creating a game engine
 
 📫 How to reach me:  
   - Discord: @radi3nt  
